@@ -1,0 +1,15 @@
+[package]
+name = 'p-73e9ac9c-8c15-4a85-aa6a-679d60b19f96'
+edition = '2021'
+version = '0.1.0'
+publish = false
+[dependencies.anyhow]
+version = '*'
+features = []
+
+[dependencies.kanal]
+version = '0.1.0-pre5'
+
+[dependencies.tokio]
+version = '*'
+features = ['full']
